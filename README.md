@@ -12,7 +12,7 @@ Each model was tested on the same input reviews with carefully crafted prompts t
 
 ##  Grounded Truth Sentiment Analysis 
 
-This Jupyter notebook (`grounded_truth.ipynb`) performs sarcasm-aware sentiment analysis using a **ground truth annotated dataset**. Unlike earlier experiments where we used free-form reviews with no labels, this notebook uses a **labeled dataset** containing known sentiment categories (Positive, Negative, Neutral).
+This Jupyter notebook (`ground_truth.ipynb`) performs sarcasm-aware sentiment analysis using a **ground truth annotated dataset**. Unlike earlier experiments where we used free-form reviews with no labels, this notebook uses a **labeled dataset** containing known sentiment categories (Positive, Negative, Neutral).
 
 ---
 
